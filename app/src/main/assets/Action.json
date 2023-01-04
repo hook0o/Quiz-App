@@ -1,0 +1,60 @@
+{
+  "Quiz": [
+    {
+      "ques": "What is the most popular Historical place in India?",
+      "option1": "Taj Mahal",
+      "option2": "Red Fort",
+      "option3": "India Gate",
+      "option4": "Pink City",
+      "answer" : "Taj Mahal"
+    },
+    {
+      "ques": "What is the name of national animal?",
+      "option1": "Lion",
+      "option2": "Tiger",
+      "option3": "Leopard",
+      "option4": "Ziraffe",
+      "answer" : "Tiger"
+    },
+    {
+      "ques": "What is the name of national bird?",
+      "option1": "Peacock",
+      "option2": "Parrot",
+      "option3": "Owl",
+      "option4": "kingfisher",
+      "answer" : "Peacock"
+    },
+    {
+      "ques": "What is the National Tree of India?",
+      "option1": "Tamarind Tree",
+      "option2": "Banyan Tree",
+      "option3": "Neem Tree",
+      "option4": "Peepal Tree",
+      "answer" : "Banyan Tree"
+    },
+    {
+      "ques": "What is the National Fruit of India?",
+      "option1": "Pomegranate",
+      "option2": "Apple",
+      "option3": "Banana",
+      "option4": "Mango",
+      "answer" : "Mango"
+    },
+    {
+      "ques": "What is the National Flower of India?",
+      "option1": "Lotus",
+      "option2": "Jasmine",
+      "option3": "Sunflower",
+      "option4": "Lily",
+      "answer" : "Lotus"
+    },
+    {
+      "ques": "What is the National Heritage Animal?",
+      "option1": "Sheep",
+      "option2": "Cow",
+      "option3": "Deer",
+      "option4": "Elephant",
+      "answer" : "Elephant"
+    }
+  ]
+}
